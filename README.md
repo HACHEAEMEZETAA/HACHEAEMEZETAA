@@ -26,7 +26,7 @@ Estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**, con c
 
 ## 🚀 Objetivo
 
-Seguir creciendo como profesional en el ámbito de la **ciberseguridad** y la **IA**, construyendo una base sólida de conocimientos técnicos y prácticos. Este repositorio es parte de mi camino: aquí comparto proyectos, ideas y aprendizajes.
+Seguir creciendo como profesional en el ámbito de la **ciberseguridad**, construyendo una base sólida de conocimientos técnicos y prácticos. Este repositorio es parte de mi camino: aquí comparto proyectos, ideas y aprendizajes.
 
 ---
 
