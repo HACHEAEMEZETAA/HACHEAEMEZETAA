@@ -20,7 +20,6 @@ Estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**, con c
 - 🧪 **HackTheBox** – retos avanzados para mejorar mis habilidades.
 - 🐚 **Bash** – scripting y automatización en sistemas Linux.
 - 🔧 **Git & GitHub** – control de versiones y proyectos personales.
-- 📝 **Obsidian** – organización de notas y documentación técnica.
 
 ---
 
